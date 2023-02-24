@@ -97,7 +97,7 @@
                     <div class="card">
                         <img src="image/carro1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title text-primary">carrinho 3</h5>
+                            <h5 class="card-title text-primary">carrinho 4</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                             <a href="#" class="btn btn-outline-primary">Compre Já</a>
                         </div>
@@ -111,7 +111,7 @@
                     <div class="card">
                         <img src="image/carro15.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title text-primary">carrinho 3</h5>
+                            <h5 class="card-title text-primary">carrinho 5</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                             <a href="#" class="btn btn-outline-primary">Compre Já</a>
                         </div>
@@ -122,7 +122,7 @@
                     <div class="card">
                         <img src="image/carro13.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title text-primary">carrinho 3</h5>
+                            <h5 class="card-title text-primary">carrinho 6</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                             <a href="#" class="btn btn-outline-primary">Compre Já</a>
                         </div>
@@ -133,7 +133,7 @@
                     <div class="card">
                         <img src="image/carro11.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title text-primary">carrinho 3</h5>
+                            <h5 class="card-title text-primary">carrinho 7</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                             <a href="#" class="btn btn-outline-primary">Compre Já</a>
                         </div>
@@ -144,7 +144,7 @@
                     <div class="card">
                         <img src="image/carro12.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h5 class="card-title text-primary">carrinho 3</h5>
+                            <h5 class="card-title text-primary">carrinho 8</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                             <a href="#" class="btn btn-outline-primary">Compre Já</a>
                         </div>
